@@ -1,4 +1,4 @@
-- :smirk: Hi, I am Aleksandar Luković | @alukovic.
+- :smirk: Hi, I am Aleksandar Luković | @alukovic. <br>
 :books: Most of time I am working on IoT solution for energy harvesting and predicting as part of PhD studies. <br>
 :bulb: It's a combination of hardware and software, with GUI, Arduino, JavaScript and MongoDB technologies.
 
